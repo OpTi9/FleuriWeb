@@ -1,6 +1,8 @@
-# streetwear
-
-Streetwear rent
+```
+FleuriWeb
+flutter demo app - flower store
+```
+![alt text](https://github.com/OpTi9/FleuriWeb/blob/main/fleuriWeb.gif?raw=true)
 
 ## Getting Started
 
