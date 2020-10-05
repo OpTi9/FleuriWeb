@@ -1,0 +1,4 @@
+#Mon Oct 05 12:59:59 CEST 2020
+base.0=D\:\\flutterProjects\\streetwear\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

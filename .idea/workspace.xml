@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="623ef45b-2217-41d6-9dca-c64fedd116bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1feWUPic918Oxw9exhO6NHfMyps" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quizzler-flutter" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\flutterProjects\streetwear\lib\screens\home" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="623ef45b-2217-41d6-9dca-c64fedd116bf" name="Default Changelist" comment="" />
+      <created>1596579053521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596579053521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596581376773">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="537" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1596581376773" />
+    <state x="589" y="295" key="FileChooserDialogImpl" timestamp="1601814212042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="589" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601814212042" />
+    <state width="1877" height="137" key="GridCell.Tab.0.bottom" timestamp="1601898508076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1601898508076" />
+    <state width="1559" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601814215644" />
+    <state width="1877" height="124" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596727142507" />
+    <state width="1877" height="137" key="GridCell.Tab.0.center" timestamp="1601898508076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1601898508076" />
+    <state width="1559" height="249" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601814215644" />
+    <state width="1877" height="124" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596727142506" />
+    <state width="1877" height="137" key="GridCell.Tab.0.left" timestamp="1601898508076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1601898508076" />
+    <state width="1559" height="249" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601814215644" />
+    <state width="1877" height="124" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596727142506" />
+    <state width="1877" height="137" key="GridCell.Tab.0.right" timestamp="1601898508076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1601898508076" />
+    <state width="1559" height="249" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601814215644" />
+    <state width="1877" height="124" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596727142506" />
+    <state x="858" y="197" key="SettingsEditor" timestamp="1596625973043">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="858" y="197" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1596625973043" />
+    <state x="100" y="100" width="1419" height="880" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601894986367">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1419" height="880" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1601894986367" />
+    <state x="100" y="100" width="1419" height="880" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601814048813" />
+    <state x="488" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1601894973298">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="488" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1601894973298" />
+    <state x="488" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601814020515" />
+    <state x="2408" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596790721357" />
+    <state x="754" y="89" width="737" height="909" key="find.popup" timestamp="1596626924414">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="754" y="89" width="737" height="909" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1596626924414" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1601895973578">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1601895973578" />
+  </component>
+</project>
